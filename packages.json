@@ -9,5 +9,6 @@
   "ms-python.python": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
   "2gua.rainbow-brackets": "https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets",
   "vscode-icons-team.vscode-icons": "https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons",
-  "hsnazar.hyper-term-theme": "https://marketplace.visualstudio.com/items?itemName=hsnazar.hyper-term-theme"
+  "hsnazar.hyper-term-theme": "https://marketplace.visualstudio.com/items?itemName=hsnazar.hyper-term-theme",
+  "flowtype.flow-for-vscode": "https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode"
 }
