@@ -9,5 +9,7 @@
   "prettier.eslintIntegration": true,
   "editor.formatOnSave": true,
   "workbench.colorTheme": "Hyper Term Black",
-  "workbench.editor.enablePreview": false
+  "workbench.editor.enablePreview": false,
+  "explorer.confirmDelete": false,
+  "workbench.startupEditor": "newUntitledFile"
 }
