@@ -1,0 +1,6 @@
+{
+  "ms-vscode.cpptools": "https://github.com/Microsoft/vscode-cpptools",
+  "ms-azuretools.vscode-docker": "https://github.com/microsoft/vscode-docker",
+  "dbaeumer.vscode-eslint": "https://github.com/Microsoft/vscode-eslint",
+  "eamodio.gitlens": "https://github.com/eamodio/vscode-gitlens"
+}
